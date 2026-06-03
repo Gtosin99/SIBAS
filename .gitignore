@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# Dependencies and build outputs
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db
