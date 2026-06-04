@@ -1,0 +1,2 @@
+"""SIBAS Streamlit application package."""
+
